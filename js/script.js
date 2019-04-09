@@ -1,4 +1,4 @@
-$(dociment).ready(function(){
+$(document).ready(function(){
 
     $('#slides').superslides();
 
